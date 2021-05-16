@@ -1,16 +1,28 @@
 ---
 title: Illinois Obesity By County
-created: '2020-11-11T16:31:33.219356'
-modified: '2020-11-11T16:31:33.219367'
+created: '2020-11-11T16:31:21.811723'
+modified: '2020-11-11T16:31:21.811735'
 state: active
 type: dataset
 tags:
+  - Bmi
+  - Chronic Disease
+  - County
+  - Illinois
   - Lake County Illinois
+  - Obese
+  - Obesity
+  - Overweight
 groups: []
 csv_url: >-
-  https://data-lakecountyil.opendata.arcgis.com/datasets/cd63911cc52841f38b289aeeeff0f300_7.csv?outSR=%7B%22latestWkid%22%3A3435%2C%22wkid%22%3A102671%7D
+  https://data-lakecountyil.opendata.arcgis.com/datasets/80843d0c11ed43d499b8aab34f021d6d_7.csv?outSR=%7B%22latestWkid%22%3A3435%2C%22wkid%22%3A102671%7D
 json_url: ''
 layout: post
 
 ---
-Layers in this service includes: Birth, Cancer, Hospitalization Discharge, Mortality and STI Rates, as well as Demographics.
+State of Illinois Obesity Percentages by County. Explanation of field attributes:
+
+<br /><br />
+
+<p><b>Obesity </b>- <span style='mso-spacerun:yes'> </span>The percent of each Illinois county’s
+population that is considered obese from the 2015 CDC BRFSS Survey.</p>
